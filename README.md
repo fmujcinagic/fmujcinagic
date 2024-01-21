@@ -8,7 +8,7 @@
 
 - 🚩 Playing **CTF (Capture The Flag) Challenges**
 
-- 📝 Preparing for **OSCP (Offensive Security Certified Professional) and CPTS (Certified Penetration Testing Specialist)**
+- 📝 In Progress... **OSCP (Offensive Security Certified Professional)** ; **CPTS (Certified Penetration Testing Specialist)**
 
 - 📫 How to reach me **faris1306@hotmail.com**
 
