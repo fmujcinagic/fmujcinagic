@@ -4,13 +4,7 @@
 
 - 👨‍💻 Here's my [Portfolio Website](https://fmujcinagic.github.io/Portfolio-Website/)
 
-- 🌱 I’m currently learning **Ethical Hacking Best Practices**
-
 - 🚩 Playing **CTF (Capture The Flag) Challenges**
-
-- 📝 In Progress... **OSCP (Offensive Security Certified Professional)** ; **CPTS (Certified Penetration Testing Specialist)**
-
-- 📫 How to reach me **faris1306@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
