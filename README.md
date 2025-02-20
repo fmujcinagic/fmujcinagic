@@ -5,7 +5,7 @@
 ## 🚀 About Me  
 <div style="font-size: 12px;"> 
 🔹 Currently pursuing Bachelor's Degree Programme Computer Science at Graz University of Technology, Austria.  <br>
-🔹 Profficient with programming/scripting (C, ASM, C++, Python, Java, Bash, PowerShell). <br>
+🔹 Profficient with programming/scripting in C, ASM, C++, Python, Java, Bash and PowerShell. <br>
 🔹 Deep understanding of penetration testing (mainly web and network), red teaming, application security, OWASP Top 10 vulns, Active Directory and OSINT recon. <br>
 🔹 CTF writeups and cybersecurity related posts:
 <p align="center">
