@@ -9,9 +9,13 @@
 ---
 
 ## 🚀 About Me  
-🔹 Currently pursuing **Computer Science** at **Graz University of Technology, Austria**  
-🔹 Profficient with programming/scripting (C, ASM, C++, Python, Java, Bash, PowerShell)
-🔹 Deep understanding of **penetration testing (mainly web and network), red teaming, OWASP Top 10 vulns, Active Directory and OSINT recon**  
+<div style="font-size: 12px;"> 
+🔹 Currently pursuing Bachelor's Degree Programme Computer Science at Graz University of Technology, Austria.  <br>
+🔹 Profficient with programming/scripting (C, ASM, C++, Python, Java, Bash, PowerShell). <br>
+🔹 Deep understanding of penetration testing (mainly web and network), red teaming, application security, OWASP Top 10 vulns, Active Directory and OSINT recon. <br>
+</div>
+
+
 ---
 ## Hack The Box Profile
 
@@ -19,7 +23,9 @@
 ---
 ## TryHackMe Profile
 
+
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/farism.png)](https://tryhackme.com/p/farism)
+
 ---
 💼 **Let's connnect**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Faris%20Mujcinagic-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/faris-mujcinagic/)  
 
